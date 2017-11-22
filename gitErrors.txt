@@ -1,0 +1,15 @@
+$ git add --all
+warning: LF will be replaced by CRLF in .idea/compiler.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .idea/gradle.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .idea/misc.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .idea/modules.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .idea/runConfigurations.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in gradle/wrapper/gradle-wrapper.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in gradlew.
+The file will have its original line endings in your working directory.
